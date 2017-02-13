@@ -25,7 +25,7 @@
  .btn-xl.disabled,.btn-xl.disabled.active,.btn-xl.disabled:active,.btn-xl.disabled:focus,.btn-xl.disabled:hover,.btn-xl[disabled],.btn-xl[disabled].active,.btn-xl[disabled]:active,.btn-xl[disabled]:focus,.btn-xl[disabled]:hover,fieldset[disabled] .btn-xl,fieldset[disabled] .btn-xl.active,fieldset[disabled] .btn-xl:active,fieldset[disabled] .btn-xl:focus,fieldset[disabled]
  .btn-xl:hover{background-color:rgb(24,188,156);border-color:rgb(24,188,156)}
  .btn-xl .badge{color:#fed136;background-color:#fff}
- .navbar-custom{background-color:#222;border-color:transparent}
+ .navbar-custom{background-color:rgba(0,0,0,0.7);border-color:transparent}
  .navbar-custom .navbar-brand{color:#fed136;font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive}
  .navbar-custom .navbar-brand.active,.navbar-custom .navbar-brand:active,.navbar-custom .navbar-brand:focus,.navbar-custom .navbar-brand:hover{color:#fec503}
  .navbar-custom .nav li a,.navbar-custom .navbar-toggle{font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;color:#fed136;text-transform:uppercase}
